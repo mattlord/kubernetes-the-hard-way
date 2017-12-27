@@ -1,6 +1,6 @@
 # Kubernetes The Hard Way
 
-This tutorial walks you through setting up Kubernetes the hard way. This guide is not for people looking for a fully automated command to bring up a Kubernetes cluster. If that's you then check out [Oracle Cloud Infrastructure](https://blogs.oracle.com/developers/announcing-oracle-container-engine-and-oracle-container-registry-service), or the [Getting Started Guides](http://kubernetes.io/docs/getting-started-guides/).
+This tutorial walks you through setting up Kubernetes the hard way. This guide is not for people looking for a fully automated command to bring up a Kubernetes cluster. If that's you then check out [Oracle Cloud Kubernetes Engine](https://blogs.oracle.com/developers/announcing-oracle-container-engine-and-oracle-container-registry-service), or the [Getting Started Guides](http://kubernetes.io/docs/getting-started-guides/).
 
 Kubernetes The Hard Way is optimized for learning, which means taking the long route to ensure you understand each task required to bootstrap a Kubernetes cluster.
 

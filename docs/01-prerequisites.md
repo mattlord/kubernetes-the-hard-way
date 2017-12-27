@@ -6,8 +6,6 @@ This tutorial leverages the [Oracle Cloud](https://cloud.oracle.com/) to streaml
 
 [Estimated cost](???) to run this tutorial: $0.?? per hour ($?.?? per day).
 
-> The compute resources required for this tutorial exceed the Google Cloud Platform free tier.
-
 ## Oracle Cloud Command Line Client
 
 ### Install the Oracle Cloud CLI
